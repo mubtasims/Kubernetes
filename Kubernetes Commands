@@ -1,1 +1,3 @@
 minikube start - -vm-driver=hyperkit (create and start a cluster along with mentioned hypervisor)
+
+kubectl get nodes (list nodes)
