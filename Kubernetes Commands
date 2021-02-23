@@ -3,3 +3,9 @@ minikube start - -vm-driver=hyperkit (create and start a cluster along with ment
 kubectl get nodes (list nodes)
 
 minikube status (current status)
+
+kubectl get pod (get pods)
+
+kubectl get services (get services)
+
+kubectl create (create)
