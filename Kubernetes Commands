@@ -15,3 +15,5 @@ kubectl get deployment (list deployments)
 kubectl logs *pod name* (to get logs for a specific pod)
 
 kubectl describe pod pod name (to get description for a specific pod)
+
+kubectl exec -it pod name - - bin/bash (gets the terminal of the pod)
