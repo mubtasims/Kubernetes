@@ -13,3 +13,5 @@ kubectl create (create)
 kubectl get deployment (list deployments)
 
 kubectl logs *pod name* (to get logs for a specific pod)
+
+kubectl describe pod pod name (to get description for a specific pod)
