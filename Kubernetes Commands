@@ -9,3 +9,7 @@ kubectl get pod (get pods)
 kubectl get services (get services)
 
 kubectl create (create)
+
+kubectl get deployment (list deployments)
+
+kubectl logs *pod name* (to get logs for a specific pod)
