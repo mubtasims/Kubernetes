@@ -1,2 +1,3 @@
 # Kubernetes
-This document consists of day to day Kubernetes commands for DevOps Engineers.
+
+This repo consists of day to day Kubernetes commands for DevOps Engineers.
