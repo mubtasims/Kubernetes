@@ -22,4 +22,4 @@ kubectl create deployment *pod name* (create a pod)
 
 kubectl edit deployment *pod name* (to get the config file with default values)
 
-kubectl delete deployment *pod name* (delete a pod)
+kubectl delete deployment *name of the pod* (delete a pod)
