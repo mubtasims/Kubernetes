@@ -21,3 +21,5 @@ kubectl exec -it pod name - - bin/bash (gets the terminal of the pod)
 kubectl create deployment *pod name* (create a pod)
 
 kubectl edit deployment *pod name* (to get the config file with default values)
+
+kubectl delete deployment *name of the pod* (delete a pod)
